@@ -1,3 +1,5 @@
+I would like to thank Hashlips for the ease of use on this. Although not a beginner developer this made random generated pictures in excess of 4kx4k pixels a breeze. Highly reccomend to new and experienced Web3 Developers.- Squid MANDOX
+
 # Welcome to HashLips 👄
 
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
